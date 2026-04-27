@@ -1,4 +1,4 @@
-# 🛒 Next Item Recommendation
+# Next Item Recommendation
 
 Простая рекомендательная система, предсказывающая следующий товар на основе истории просмотров пользователя. Реализована на чистом Python без ML-библиотек — только `collections`, `json` и `matplotlib`.
 
